@@ -24,7 +24,7 @@ Requisitos
 2. Ter enviado inspirações para as telas e os casos de uso do usuário durante a interação;
 3. Ter criado um repositório no github para o time.
 
-**Minhas contribuições na 1º task**
+**_Minhas contribuições na 1º task_**
 - Coletei dados e informações do grupo para primeira apresentação; 
 - Ajudei na organização das tarefas iniciais. 
 
