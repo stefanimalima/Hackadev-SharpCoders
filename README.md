@@ -12,3 +12,10 @@ Os objetivos desse projeto foram:
 Desenvolver uma fintech [ImaPay], com serviços funcionais [Criação de conta, saque, depósito, transferência e histórico de transações]. 
 
 Para ter acesso a aplicação funcionando, clique aqui: [ImaPay](https://imapay.netlify.app/)
+
+### Entregas:
+As entregas foram divididas em tasks, tendo um prazo bem definido para cada uma. 
+- Task 1: 
+- Task 2: 
+- Task 3: 
+- Task 4: 
