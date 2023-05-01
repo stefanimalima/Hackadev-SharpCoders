@@ -25,8 +25,8 @@ Requisitos
 3. Ter criado um repositório no github para o time.
 
 Minhas contribuições na 1º task ✅
-- Coletei dados e informações do grupo para primeira apresentação;
-- Ajudei na organização das tarefas iniciais.
+- 🟢 Coletei dados e informações do grupo para primeira apresentação;
+- 🟢 Ajudei na organização das tarefas iniciais.
 
 ### Task 2️⃣| Front-end
 Objetivo: Construir o front-end estático da aplicação.
@@ -43,10 +43,10 @@ Requisitos obrigatórios
 4. Tela de recuperação de senha.
 
 Minhas contribuições na 2º task ✅
-- Criei a identidade visual do grupo, juntamente com a [Carolina Castilhos](https://github.com/carolinacastilhos);
-- Criei o Logotipo da ImaPay;
--  Forneci a estrutura inicial do HTML para as telas iniciais;
-- Contribui com a estilização do CSS.
+- 🟢 Criei a identidade visual do grupo, juntamente com a [Carolina Castilhos](https://github.com/carolinacastilhos);
+- 🟢 Criei o Logotipo da ImaPay;
+- 🟢 Forneci a estrutura inicial do HTML para as telas iniciais;
+- 🟢 Contribui com a estilização do CSS.
 
 ### Task 3️⃣| React JS
 Objetivo: Migrar as telas construidas na etapa anterior para ReactJS e construir novas telas (saldo, transferência e histórico de transações).
@@ -64,9 +64,9 @@ Requisitos obrigatórios
 3. Construção das 3 novas telas (Saldo, Transferência e Histórico de Transações).
 
 Minhas contribuições na 3º task ✅
-- Criei os protótipos de todas as telas no Figma, com uma nova identidade visual; 
-- Mudei todo esquema de cores do projeto, 
-- Adicionei a propriedade título em todos os formulários (ReactJS).
+- 🟢 Criei os protótipos de todas as telas no Figma, com uma nova identidade visual; 
+- 🟢 Mudei todo esquema de cores do projeto, 
+- 🟢 Adicionei a propriedade título em todos os formulários (ReactJS).
 
 ### Task 4️⃣| Conclusão
 Objetivo: Construir o back-end da aplicação e integrar com o front-end.
