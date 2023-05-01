@@ -17,19 +17,19 @@ Para ter acesso a aplicação funcionando, clique aqui: [ImaPay](https://imapay.
 As entregas foram divididas em tasks, tendo um prazo bem definido para cada uma. 
 
 ### Task 1️⃣| Planejamento 
-Objetivo -> Preparar o time para o desafio e estruturar os próximos passos para a etapa de frontend estático.
+Objetivo: Preparar o time para o desafio e estruturar os próximos passos para a etapa de frontend estático.
 
 Requisitos
 1. Ter uma divisão de responsabilidade;
 2. Ter enviado inspirações para as telas e os casos de uso do usuário durante a interação;
 3. Ter criado um repositório no github para o time.
 
-**_Minhas contribuições na 1º task_** ✅
+🟢**_Minhas contribuições na 1º task_** ✅
 - Coletei dados e informações do grupo para primeira apresentação;
 - Ajudei na organização das tarefas iniciais.
 
 ### Task 2️⃣| Front-end
-Objetivo -> Construir o front-end estático da aplicação.
+Objetivo: Construir o front-end estático da aplicação.
 
 Regras 
 - Trabalhar com HTML, CSS e JavaScript puro;
@@ -42,14 +42,14 @@ Requisitos obrigatórios
 3. Tela de aceite termos e serviços (com checkbox);
 4. Tela de recuperação de senha.
 
-**_Minhas contribuições na 2º task_** ✅
+🟢**_Minhas contribuições na 2º task_** ✅
 - Criei a identidade visual do grupo, juntamente com a [Carolina Castilhos](https://github.com/carolinacastilhos);
 - Criei o Logotipo da ImaPay;
 -  Forneci a estrutura inicial do HTML para as telas iniciais;
 - Contribui com a estilização do CSS.
 
 ### Task 3️⃣| React JS
-Objetivo -> Migrar as telas construidas na etapa anterior para ReactJS e construir novas telas (saldo, transferência e histórico de transações).
+Objetivo: Migrar as telas construidas na etapa anterior para ReactJS e construir novas telas (saldo, transferência e histórico de transações).
 
 Regras 
 - Migrar o projeto construido nas etapas anteriores para ReactJS;
@@ -63,13 +63,13 @@ Requisitos obrigatórios
 2. Simplificar a estrutura com componentes reutilizáveis;
 3. Construção das 3 novas telas (Saldo, Transferência e Histórico de Transações).
 
-**_Minhas contribuições na 3º task_** ✅
+🟢**_Minhas contribuições na 3º task_** ✅
 - Criei os protótipos de todas as telas no Figma, com uma nova identidade visual; 
 - Mudei todo esquema de cores do projeto, 
 - Adicionei a propriedade título em todos os formulários (ReactJS).
 
 ### Task 4️⃣| Conclusão
-Objetivo -> Construir o back-end da aplicação e integrar com o front-end.
+Objetivo: Construir o back-end da aplicação e integrar com o front-end.
 
 Regras
 No endpoint "Dados do cliente", é necessário retornar o saldo do cliente. Para isso, há duas opções: incluir o saldo diretamente no banco de dados sem precisar de uma tela para adicionar saldo, ou incluir a tela como requisito opcional.
@@ -80,8 +80,8 @@ Requisitos obrigatórios
 3. O sistema deve ser capaz de armazenar e recuperar informações do banco de dados;
 4. A localização das pastas do front-end e do back-end deve estar dentro da mesma pasta raiz do projeto, seguindo a estrutura de monorepo.
 
-**_Minhas contribuições na 4º task_** ✅
-- Contruí os models (camada de banco de dados e regra de negócio) para API;
+🟢**_Minhas contribuições na 4º task_** ✅
+- | 🟢 Contruí os models (camada de banco de dados e regra de negócio) para API;
 - Consertei bugs e realizei melhorias no CSS;
 - Fiz a integração (front/backend) da página de login. 
 
