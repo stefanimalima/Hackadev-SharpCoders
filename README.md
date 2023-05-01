@@ -24,7 +24,7 @@ Requisitos
 2. Ter enviado inspirações para as telas e os casos de uso do usuário durante a interação;
 3. Ter criado um repositório no github para o time.
 
-🟢_Minhas contribuições na 1º task_ ✅
+Minhas contribuições na 1º task ✅
 - Coletei dados e informações do grupo para primeira apresentação;
 - Ajudei na organização das tarefas iniciais.
 
@@ -42,7 +42,7 @@ Requisitos obrigatórios
 3. Tela de aceite termos e serviços (com checkbox);
 4. Tela de recuperação de senha.
 
-🟢_Minhas contribuições na 2º task_ ✅
+Minhas contribuições na 2º task ✅
 - Criei a identidade visual do grupo, juntamente com a [Carolina Castilhos](https://github.com/carolinacastilhos);
 - Criei o Logotipo da ImaPay;
 -  Forneci a estrutura inicial do HTML para as telas iniciais;
@@ -63,7 +63,7 @@ Requisitos obrigatórios
 2. Simplificar a estrutura com componentes reutilizáveis;
 3. Construção das 3 novas telas (Saldo, Transferência e Histórico de Transações).
 
-🟢_Minhas contribuições na 3º task_ ✅
+Minhas contribuições na 3º task ✅
 - Criei os protótipos de todas as telas no Figma, com uma nova identidade visual; 
 - Mudei todo esquema de cores do projeto, 
 - Adicionei a propriedade título em todos os formulários (ReactJS).
@@ -80,9 +80,9 @@ Requisitos obrigatórios
 3. O sistema deve ser capaz de armazenar e recuperar informações do banco de dados;
 4. A localização das pastas do front-end e do back-end deve estar dentro da mesma pasta raiz do projeto, seguindo a estrutura de monorepo.
 
-🟢_Minhas contribuições na 4º task_ ✅
+Minhas contribuições na 4º task ✅
 - 🟢 Contruí os models (camada de banco de dados e regra de negócio) para API;
-- Consertei bugs e realizei melhorias no CSS;
-- Fiz a integração (front/backend) da página de login. 
+- 🟢 Consertei bugs e realizei melhorias no CSS;
+- 🟢 Fiz a integração (front/backend) da página de login. 
 
 Todas as minhas contibuições para esse projeto final foram desenvolvidas dentro da equipe 'Code Breakers'. Os outros integrantes do grupo são: [Carolina Castilhos](https://github.com/carolinacastilhos), [Mateus Nhoato](https://github.com/MateusNhoato), [Thiago Nebuloni](https://github.com/thiagonebuloni), [André Santos](https://github.com/devandresantos), [Vicente Carvalho](https://github.com/Vicentecarvalho-3600), [Victor Hugo](https://github.com/victorhugomr), [Thiago Maia](https://github.com/TmFioravanti), [Weslley Gomes](https://github.com/weslleyjoaquim), [Thiago Garcia](https://github.com/ThGarcia) e [Vinícius Matos](https://github.com/Vinnizius1).
