@@ -16,7 +16,7 @@ Para ter acesso a aplicação funcionando, clique aqui: [ImaPay](https://imapay.
 ## Entregas
 As entregas foram divididas em tasks, tendo um prazo bem definido para cada uma. 
 
-### Task 1 | Planejamento 
+### Task 1️⃣| Planejamento 
 Objetivo -> Preparar o time para o desafio e estruturar os próximos passos para a etapa de frontend estático.
 
 Requisitos
@@ -28,7 +28,7 @@ Requisitos
 - Coletei dados e informações do grupo para primeira apresentação;
 - Ajudei na organização das tarefas iniciais.
 
-### Task 2 | Front-end
+### Task 2️⃣| Front-end
 Objetivo -> Construir o front-end estático da aplicação.
 
 Regras 
@@ -48,7 +48,7 @@ Requisitos obrigatórios
 -  Forneci a estrutura inicial do HTML para as telas iniciais;
 - Contribui com a estilização do CSS.
 
-### Task 3 | React JS
+### Task 3️⃣| React JS
 Objetivo -> Migrar as telas construidas na etapa anterior para ReactJS e construir novas telas (saldo, transferência e histórico de transações).
 
 Regras 
@@ -68,7 +68,7 @@ Requisitos obrigatórios
 - Mudei todo esquema de cores do projeto, 
 - Adicionei a propriedade título em todos os formulários (ReactJS).
 
-### Task 4 | Conclusão
+### Task 4️⃣| Conclusão
 Objetivo -> Construir o back-end da aplicação e integrar com o front-end.
 
 Regras
