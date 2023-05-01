@@ -45,7 +45,7 @@ Requisitos obrigatórios
 Minhas contribuições na 2º task ✅
 - 🟢 Criei a identidade visual do grupo, juntamente com a [Carolina Castilhos](https://github.com/carolinacastilhos);
 - 🟢 Criei o Logotipo da ImaPay;
-- 🟢 Forneci a estrutura inicial do HTML para as telas iniciais;
+- 🟢 Forneci a estrutura HTML para as telas iniciais;
 - 🟢 Contribui com a estilização do CSS.
 
 ### Task 3️⃣| React JS
