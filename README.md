@@ -25,8 +25,8 @@ Requisitos
 3. Ter criado um repositório no github para o time.
 
 **_Minhas contribuições na 1º task_**
-- ✅ Coletei dados e informações do grupo para primeira apresentação; 
-- ✅ Ajudei na organização das tarefas iniciais. 
+- Coletei dados e informações do grupo para primeira apresentação; ✅
+- Ajudei na organização das tarefas iniciais. ✅ 
 
 ### Task 2 | Front-end
 Objetivo -> Construir o front-end estático da aplicação.
